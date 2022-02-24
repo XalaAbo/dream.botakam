@@ -1,21 +1,21 @@
 {
   "name": "Dream Bot",
   "description": "Dream bot a powerful Discord bot that includes Utility, Fun, Music, Moderation, and much more!",
-  "repository": "https://github.com/brblacky/ali",
+  "repository": "",
   "logo": "https://cdn.discordapp.com/attachments/841728122633715743/865610713971687484/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830343036353737343633.png",
   "keywords": ["discord", "discordjs", "music", "bot", "moderation", "economy", "fun", "utility"],
   "env": {
     "MONGO_URI": {
-      "description": "Your Mongo url",
+      "description": " mongodb+srv://xalaabo:xalaabo111@cluster0.dzow4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "value": "",
       "required": true
     },
     "COOKIE":{
-    "description": "Your Youtube Cooke",
+    "description": "AIzaSyAoZv5srgL5cLOx9X8cjNZVSNl25suvLKc",
       "required": false
      },
     "DISCORD_TOKEN": {
-      "description": "Your bot's bot token.",
+      "description": "ODAyOTI3NTMzMDcwMzUyNDI1.YA2WiQ.ykAn2F9eNwZpONEOotaVTcRA4a4",
       "required": true
     }
   }
