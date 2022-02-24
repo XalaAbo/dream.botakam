@@ -97,7 +97,7 @@ const settings = {
   
   // Array of owners recognized by the bot. ID here will be given access to
   // owner based commands.
-  owners: [ '491577179495333903' ],
+  owners: [ '777932803354525746' ],
 
   // websites affiliated with the bot, can be accessed through
   // Client#config#websites
