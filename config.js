@@ -102,10 +102,10 @@ const settings = {
   // websites affiliated with the bot, can be accessed through
   // Client#config#websites
   websites: {
-    "repository":"https://github.com/brblacky/ALi#readme/",
-    "invite": "https://discord.com/api/oauth2/authorize?client_id=841716414053351486&permissions=8&scope=bot",
-    "support": "https://discord.gg/uAVaeCP9VH",
-    "DisBotlist": "https://disbotlist.xyz/bot/841716414053351486"
+    "":"",
+    "invite": "https://discord.com/oauth2/authorize?client_id=802927533070352425&permissions=8&scope=bot",
+    "support": "https://discord.gg/frbxBfXV5p",
+    "": ""
   }
 };
 
