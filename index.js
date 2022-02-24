@@ -136,4 +136,4 @@ client.listentoProcessEvents([
   'uncaughtException'
 ], { ignore: false });
 
-client.login(ODAyOTI3NTMzMDcwMzUyNDI1);
+client.login();
